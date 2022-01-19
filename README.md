@@ -4,11 +4,7 @@ O micro serviço de *reviews* é uma aplicação construída em ***.Net Core*** 
 
 ## Estrutura do projeto
 
-Esse projeto trabalha com uma base de dados Postgree
-```mermaid
-graph LR;
-A[Rotten-Potatoes] --> B[Micro Servoço Review] --> C[Postgres Database];
-```
+![Diagrama micro serviço de reviews](https://github.com/nossadiretiva/imagens/blob/master/diagrama_microservico_review.png?raw=true)
 
 ## Configuração
 
