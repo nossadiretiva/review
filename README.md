@@ -6,8 +6,8 @@ O micro serviço de *reviews* é uma aplicação construída em ***.Net Core*** 
 
 Esse projeto trabalha com uma base de dados Postgree
 ```mermaid
-graph LR
-A[Rotten-Potatoes] --> B[Micro Servoço Review] --> C[Postgres Database]
+graph LR;
+A[Rotten-Potatoes] --> B[Micro Servoço Review] --> C[Postgres Database];
 ```
 
 ## Configuração
